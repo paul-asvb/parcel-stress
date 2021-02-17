@@ -1,5 +1,7 @@
 import * as d3 from "d3";
 
+import * as rxdb from 'rxdb';
+
 // import another component
 d3.select("svg")
     .append("circle")
